@@ -641,10 +641,6 @@ namespace AdvancedSerpentOperations
 
             Word[] tmpW = new Word[4];
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 82c36c323bed85d542d6947eb6b5b1ce0fce2ca9
             int[] a = new int[] { 2, 4, 5, 9, 10, 14 };
             int[] b = new int[] { 5, 7, 12, 14 };
             int konuma = 25, konumb = 22;
